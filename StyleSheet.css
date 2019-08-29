@@ -21,7 +21,7 @@ p, li {
   letter-spacing: 1px;
 }
 html {
-  background-color: #509FC7;
+  background-color: red;
 }
 body {
   width: 600px;
@@ -82,7 +82,7 @@ img {
 
 }
 h2, h3 {
-  
+
   width: 100%;
   min-height: 200px;
   line-height: 200px;
