@@ -1,0 +1,95 @@
+html {
+  font-size: 25px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  object-fit: cover;
+}
+p, {
+  font-family: 'Bangers', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #509FC7;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 7px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-followme {
+    background: #3B5998:
+    color: white;
+    }
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #D90F12;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #0FB4D9;
+  color: white;
+}
+, *:after, *:before {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+* {margin:0;padding:0;border:0 none;position: relative; outline: none;
+}
+
+}
+h2, h3 {
+  
+  width: 100%;
+  min-height: 200px;
+  line-height: 200px;
+  font-family: 'Bangers', cursive;
+  font-size: 60px;
+  text-align: center;
+  font-weight: normal;
+  text-align: center;
+  margin: 3rem auto 0;
+}
